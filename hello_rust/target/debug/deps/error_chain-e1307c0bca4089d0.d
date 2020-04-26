@@ -1,0 +1,11 @@
+C:\Users\geoff\Rust\hello_rust\target\debug\deps\error_chain-e1307c0bca4089d0.rmeta: C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs
+
+C:\Users\geoff\Rust\hello_rust\target\debug\deps\liberror_chain-e1307c0bca4089d0.rlib: C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs
+
+C:\Users\geoff\Rust\hello_rust\target\debug\deps\error_chain-e1307c0bca4089d0.d: C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs
+
+C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs:
+C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs:
+C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs:
+C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs:
+C:\Users\geoff\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs:

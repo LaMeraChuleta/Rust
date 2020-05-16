@@ -1,0 +1,11 @@
+C:\Users\Desarrollo3\Desktop\Rust\hello_rust\target\debug\deps\libc-9c3277dcbbe43066.rmeta: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\macros.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\fixed_width_ints.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\windows\mod.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\windows\msvc.rs
+
+C:\Users\Desarrollo3\Desktop\Rust\hello_rust\target\debug\deps\liblibc-9c3277dcbbe43066.rlib: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\macros.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\fixed_width_ints.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\windows\mod.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\windows\msvc.rs
+
+C:\Users\Desarrollo3\Desktop\Rust\hello_rust\target\debug\deps\libc-9c3277dcbbe43066.d: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\macros.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\fixed_width_ints.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\windows\mod.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\windows\msvc.rs
+
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\lib.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\macros.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\fixed_width_ints.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\windows\mod.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.69\src\windows\msvc.rs:

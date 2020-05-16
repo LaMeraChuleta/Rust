@@ -1,0 +1,12 @@
+C:\Users\Desarrollo3\Desktop\Rust\hello_rust\target\debug\deps\cc-e5c8d4b9824fac6e.rmeta: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\registry.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\winapi.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\com.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\setup_config.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\windows_registry.rs
+
+C:\Users\Desarrollo3\Desktop\Rust\hello_rust\target\debug\deps\libcc-e5c8d4b9824fac6e.rlib: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\registry.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\winapi.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\com.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\setup_config.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\windows_registry.rs
+
+C:\Users\Desarrollo3\Desktop\Rust\hello_rust\target\debug\deps\cc-e5c8d4b9824fac6e.d: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\registry.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\winapi.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\com.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\setup_config.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\windows_registry.rs
+
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\lib.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\registry.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\winapi.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\com.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\setup_config.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.52\src\windows_registry.rs:

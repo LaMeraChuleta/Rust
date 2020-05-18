@@ -1,16 +1,16 @@
-// fn mas_grande<T>(list: &[T]) -> T{
+fn mas_grande<T: PartialOrd + Copy>(list: &[T]) -> T{
 
-//     let mut largo = list[0];
+    let mut largo = list[0];
 
-//     for &item in largo {
+    for &item in list {
 
-//         if item > largo {            
+        if item > largo {            
 
-//             largo = item
-//         }
-//     }
-//     return largo
-// }
+            largo = item
+        }
+    }
+    return largo
+}
 
 struct Point<T, U> {
     x: T,
@@ -34,15 +34,15 @@ impl<T,U> Point<T,U> {
 fn main() {
     println!("Genericos en Rust");
 
-    // let number_list = vec![34, 50, 25, 100, 65];
+    let number_list = vec![34, 50, 25, 100, 65];
 
-    // let result = mas_grande(&number_list);
-    // println!("El numero mas grande es: {}", result);
+    let result = mas_grande(&number_list);
+    println!("El numero mas grande es: {}", result);
 
-    // let char_list = vec!['y', 'm', 'a', 'q'];
+    let char_list = vec!['y', 'm', 'a', 'q'];
 
-    // let result = mas_grande(&char_list);
-    // println!("La letra mas grande es: {}", result);
+    let result = mas_grande(&char_list);
+    println!("La letra mas grande es: {}", result);
 
     let enteros = Point{
         x: 5, 

@@ -1,5 +1,5 @@
 [package]
-name = "rasogos_rust"
+name = "vidautil_rust"
 version = "0.1.0"
 authors = ["LaMeraChuleta <geoffreyytorres25@gmail.com>"]
 edition = "2018"

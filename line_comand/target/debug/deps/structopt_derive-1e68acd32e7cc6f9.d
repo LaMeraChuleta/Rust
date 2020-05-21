@@ -1,0 +1,10 @@
+C:\Users\Desarrollo3\Desktop\Rust\line_comand\target\debug\deps\structopt_derive-1e68acd32e7cc6f9.dll: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\attrs.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\doc_comments.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\parse.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\spanned.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\ty.rs
+
+C:\Users\Desarrollo3\Desktop\Rust\line_comand\target\debug\deps\structopt_derive-1e68acd32e7cc6f9.d: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\attrs.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\doc_comments.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\parse.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\spanned.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\ty.rs
+
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\lib.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\attrs.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\doc_comments.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\parse.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\spanned.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.7\src\ty.rs:

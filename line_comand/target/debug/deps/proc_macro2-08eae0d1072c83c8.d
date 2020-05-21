@@ -1,0 +1,11 @@
+C:\Users\Desarrollo3\Desktop\Rust\line_comand\target\debug\deps\proc_macro2-08eae0d1072c83c8.rmeta: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\parse.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\detection.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\fallback.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\wrapper.rs
+
+C:\Users\Desarrollo3\Desktop\Rust\line_comand\target\debug\deps\libproc_macro2-08eae0d1072c83c8.rlib: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\parse.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\detection.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\fallback.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\wrapper.rs
+
+C:\Users\Desarrollo3\Desktop\Rust\line_comand\target\debug\deps\proc_macro2-08eae0d1072c83c8.d: C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\lib.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\parse.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\detection.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\fallback.rs C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\wrapper.rs
+
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\lib.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\parse.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\detection.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\fallback.rs:
+C:\Users\Desarrollo3\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.13\src\wrapper.rs:

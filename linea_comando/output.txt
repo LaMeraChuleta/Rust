@@ -1,0 +1,2 @@
+Buscando -> zaratustra
+En el Fichero -> hello.txt

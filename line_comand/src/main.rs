@@ -2,8 +2,6 @@ extern crate getopts;
 use getopts::Options;
 use getopts::Matches;
 
-
-
 use std::str;
 use std::error::Error;
 use std::env;
@@ -138,8 +136,7 @@ fn get_nombre_fichero(id: &str, matches: &Matches) -> String {
         4 =>  nombre_fichero.push('4'),
         5 =>  nombre_fichero.push('5'),
         _ =>  {                        
-            println!("No existe ese consultorio!!\n");
-            std::process::exit(1);
+           
         }
     }   
     let nombre_fichero = format!("{}.txt",nombre_fichero);
@@ -262,7 +259,7 @@ fn main() {
         if let Err(e) = reservar_cita(nombre_fichero, parametros){
             println!("Ocurrio un error: {}",e);
         }
-    }
+    }    
     if matches.opt_present("h") {         
         let nombre_fichero = get_nombre_fichero("h", &matches);        
         if let Err(e) = generar_tabla(&nombre_fichero){
